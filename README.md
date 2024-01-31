@@ -9,7 +9,7 @@
 
 ## <a name="introduction">Introduction</a>
 
-Ce projet permet d'extraire des informations spécifiques à partir d'un fichier PowerPoint (.pptx). Actuellement, il prend en charge l'extraction des dates de signature de la convention de don pour la subvention, le montant de la subvention du fonds d’étude et d’aide au secteur privé (FASEP) et de t l’avis du service économique de l’ambassade pour le premier terme intermédiaire de la subvention à partir de certaines diapositives et tableaux spécifiques.
+Ce projet permet d'extraire des informations spécifiques à partir d'un fichier PowerPoint (.pptx). Actuellement, il prend en charge l'extraction des dates de signature de la convention de don pour la subvention, le montant de la subvention du fonds d’étude et d’aide au secteur privé (FASEP) et de l’avis du service économique de l’ambassade pour le premier terme intermédiaire de la subvention à partir de certaines diapositives et tableaux spécifiques.
 
 ## <a name="configuration">🤖 Configuration</a>
 
